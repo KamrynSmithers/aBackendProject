@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/KamrynSmithers/aBackendProject/issues"
   },
-  "homepage": "https://github.com/KamrynSmithers/aBackendProject#readme"
+  "homepage": "https://github.com/KamrynSmithers/aBackendProject#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
